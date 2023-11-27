@@ -1,0 +1,101 @@
+track_name,track_artist,track_popularity,track_album_name,playlist_name,playlist_genre,playlist_subgenre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,track_album_release_year,track_album_release_month
+I Don't Care (with Justin Bieber) - Loud Luxury Remix,Ed Sheeran,66,I Don't Care (with Justin Bieber) [Loud Luxury Remix],Pop Remix,pop,dance pop,0.748,0.916,6,-2.634,1,0.0583,0.102,0.0,0.0653,0.518,122.036,194754,2019,6
+Memories - Dillon Francis Remix,Maroon 5,67,Memories (Dillon Francis Remix),Pop Remix,pop,dance pop,0.726,0.815,11,-4.969,1,0.0373,0.0724,0.00421,0.357,0.693,99.972,162600,2019,12
+All the Time - Don Diablo Remix,Zara Larsson,70,All the Time (Don Diablo Remix),Pop Remix,pop,dance pop,0.675,0.931,1,-3.432,0,0.0742,0.0794,2.33e-05,0.11,0.613,124.008,176616,2019,7
+Call You Mine - Keanu Silva Remix,The Chainsmokers,60,Call You Mine - The Remixes,Pop Remix,pop,dance pop,0.718,0.93,7,-3.778,1,0.102,0.0287,9.43e-06,0.204,0.277,121.956,169093,2019,7
+Someone You Loved - Future Humans Remix,Lewis Capaldi,69,Someone You Loved (Future Humans Remix),Pop Remix,pop,dance pop,0.65,0.833,1,-4.672,1,0.0359,0.0803,0.0,0.0833,0.725,123.976,189052,2019,3
+Beautiful People (feat. Khalid) - Jack Wins Remix,Ed Sheeran,67,Beautiful People (feat. Khalid) [Jack Wins Remix],Pop Remix,pop,dance pop,0.675,0.919,8,-5.385,1,0.127,0.0799,0.0,0.143,0.585,124.982,163049,2019,7
+Never Really Over - R3HAB Remix,Katy Perry,62,Never Really Over (R3HAB Remix),Pop Remix,pop,dance pop,0.449,0.856,5,-4.788,0,0.0623,0.187,0.0,0.176,0.152,112.648,187675,2019,7
+Post Malone (feat. RANI) - GATTÜSO Remix,Sam Feldt,69,Post Malone (feat. RANI) [GATTÜSO Remix],Pop Remix,pop,dance pop,0.542,0.903,4,-2.419,0,0.0434,0.0335,4.83e-06,0.111,0.367,127.936,207619,2019,8
+Tough Love - Tiësto Remix / Radio Edit,Avicii,68,Tough Love (Tiësto Remix),Pop Remix,pop,dance pop,0.594,0.935,8,-3.562,1,0.0565,0.0249,3.97e-06,0.637,0.366,127.015,193187,2019,6
+If I Can't Have You - Gryffin Remix,Shawn Mendes,67,If I Can't Have You (Gryffin Remix),Pop Remix,pop,dance pop,0.642,0.818,2,-4.552,1,0.032,0.0567,0.0,0.0919,0.59,124.957,253040,2019,6
+Cross Me (feat. Chance the Rapper & PnB Rock) - M-22 Remix,Ed Sheeran,58,Cross Me (feat. Chance the Rapper & PnB Rock) [M-22 Remix],Pop Remix,pop,dance pop,0.679,0.923,6,-6.5,1,0.181,0.146,4.92e-06,0.124,0.752,121.984,207894,2019,6
+Hate Me - R3HAB Remix,Ellie Goulding,67,Hate Me (R3HAB Remix),Pop Remix,pop,dance pop,0.437,0.774,8,-4.918,1,0.0554,0.148,0.0,0.133,0.329,123.125,203733,2019,8
+Body On My,Loud Luxury,67,Body On My,Pop Remix,pop,dance pop,0.744,0.726,1,-4.675,1,0.0463,0.0399,0.0,0.374,0.687,121.985,192507,2019,3
+SOS - Laidback Luke Tribute Remix / Radio Edit,Avicii,68,SOS (Laidback Luke Tribute Remix),Pop Remix,pop,dance pop,0.572,0.915,5,-4.451,0,0.0625,0.0111,0.0,0.339,0.678,123.919,164516,2019,5
+Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Tiësto Remix,Martin Garrix,63,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) [Remixes],Pop Remix,pop,dance pop,0.69,0.78,5,-4.446,0,0.0594,0.00733,0.00183,0.0729,0.238,126.07,255238,2019,7
+South of the Border (feat. Camila Cabello & Cardi B) - Andy Jarvis Remix,Ed Sheeran,66,South of the Border (feat. Camila Cabello & Cardi B) [Andy Jarvis Remix],Pop Remix,pop,dance pop,0.805,0.835,0,-4.603,1,0.0896,0.13,5.03e-06,0.365,0.722,125.028,188230,2019,12
+All My Friends - Eden Prince Remix,AJ Mitchell,60,All My Friends (Eden Prince Remix),Pop Remix,pop,dance pop,0.694,0.901,1,-4.322,0,0.0948,0.0702,0.0,0.427,0.368,118.051,173548,2019,5
+Dancing With A Stranger (With Normani) - Cheat Codes Remix,Sam Smith,69,Dancing With A Stranger (With Normani) [Cheat Codes Remix],Pop Remix,pop,dance pop,0.746,0.557,1,-6.722,1,0.0542,0.103,0.0036,0.138,0.324,111.961,159404,2019,3
+Let It Be Me - Sondr Remix,Steve Aoki,35,Let It Be Me (Remixes),Pop Remix,pop,dance pop,0.467,0.821,7,-5.466,1,0.0934,0.00791,0.000441,0.131,0.232,122.676,185366,2019,10
+Heaven - David Guetta & MORTEN Remix,Avicii,70,Heaven (David Guetta & MORTEN Remix),Pop Remix,pop,dance pop,0.572,0.934,6,-5.053,0,0.0446,0.00292,0.0198,0.105,0.204,125.948,215238,2019,8
+All Around The World (La La La) - Marnik Remix,R3HAB,64,All Around The World (La La La) [Marnik Remix],Pop Remix,pop,dance pop,0.708,0.913,9,-4.329,0,0.0348,0.089,0.081,0.113,0.707,135.016,170667,2019,8
+Don't Leave Me Alone (feat. Anne-Marie) - EDX's Indian Summer Remix,David Guetta,62,Don't Leave Me Alone (feat. Anne-Marie) [EDX's Indian Summer Remix],Pop Remix,pop,dance pop,0.684,0.818,4,-4.477,0,0.128,0.0469,3.39e-06,0.119,0.336,123.938,210968,2019,5
+Slow Dance (feat. Ava Max) - Sam Feldt Remix,AJ Mitchell,70,Slow Dance (feat. Ava Max) [Sam Feldt Remix],Pop Remix,pop,dance pop,0.732,0.85,1,-5.999,1,0.0444,0.114,2.02e-06,0.0388,0.372,124.024,193548,2019,10
+Do You Mean (feat. Ty Dolla $ign & bülow) - Myon Remix,The Chainsmokers,58,Do You Mean - The Remixes (feat. Ty Dolla $ign & bülow),Pop Remix,pop,dance pop,0.62,0.889,11,-3.785,1,0.0352,0.0163,1.86e-05,0.395,0.422,110.018,205093,2019,5
+Hold Me While You Wait - Steve Void Remix,Lewis Capaldi,63,Hold Me While You Wait (Steve Void Remix),Pop Remix,pop,dance pop,0.675,0.76,11,-7.037,1,0.0434,0.104,0.0,0.33,0.468,124.933,172800,2019,6
+One Thing Right - Firebeatz Remix,Marshmello,66,One Thing Right (Remixes),Pop Remix,pop,dance pop,0.682,0.851,1,-7.117,0,0.0363,0.0146,0.000834,0.0289,0.348,126.0,192381,2019,8
+Close To Me (with Diplo) (feat. Swae Lee) - CID Remix,Ellie Goulding,8,Close To Me (Remixes),Pop Remix,pop,dance pop,0.663,0.905,1,-3.781,0,0.0511,0.0325,0.0,0.333,0.397,125.996,175000,2019,2
+So Am I - Toby Green Remix,Ava Max,62,So Am I (Toby Green Remix),Pop Remix,pop,dance pop,0.625,0.938,6,-3.983,1,0.0517,0.00432,0.00026,0.0923,0.371,127.997,166875,2019,5
+When You Leave - Breathe Carolina Remix,Nikki Vianna,30,When You Leave (Breathe Carolina Remix),Pop Remix,pop,dance pop,0.679,0.909,1,-2.929,1,0.105,0.0334,0.0,0.269,0.819,119.885,155080,2019,4
+Mother - Fedde Le Grand Remix,Charlie Puth,56,Mother (Fedde Le Grand Remix),Pop Remix,pop,dance pop,0.641,0.869,11,-4.754,1,0.0423,0.0319,0.00131,0.403,0.358,128.091,178125,2019,11
+Torn - KREAM Remix,Ava Max,60,Torn (KREAM Remix),Pop Remix,pop,dance pop,0.742,0.864,0,-5.06,1,0.0976,0.00141,0.00467,0.241,0.727,125.032,169935,2019,9
+Quite Miss Home - Steve Void Remix,James Arthur,60,Quite Miss Home (Steve Void Remix),Pop Remix,pop,dance pop,0.716,0.815,10,-4.121,1,0.0533,0.108,0.0,0.163,0.351,124.975,220413,2019,11
+Love Me Less (feat. Quinn XCII) - Party Pupils Remix,MAX,55,Love Me Less (Remixes),Pop Remix,pop,dance pop,0.748,0.831,1,-5.029,1,0.115,0.0823,7.36e-05,0.0757,0.894,128.024,185273,2019,6
+Good Things Fall Apart (with Jon Bellion) [Tiësto's Big Room Remix],ILLENIUM,67,Good Things Fall Apart (with Jon Bellion) [Tiësto's Big Room Remix],Pop Remix,pop,dance pop,0.563,0.81,2,-2.921,1,0.0522,0.00522,0.0,0.0846,0.495,129.975,247385,2019,7
+Paradise - Bazzi vs. Black Caviar Remix,Bazzi vs.,55,Paradise (Bazzi vs. Black Caviar Remix),Pop Remix,pop,dance pop,0.728,0.815,11,-2.878,0,0.046,0.00223,0.000317,0.101,0.681,124.019,218015,2019,6
+White Mercedes - EDX's Miami Sunset Remix,Charli XCX,56,White Mercedes (EDX's Miami Sunset Remix),Pop Remix,pop,dance pop,0.846,0.773,5,-3.503,1,0.0473,0.0141,2.23e-05,0.204,0.586,124.008,200444,2019,10
+Higher Love,Kygo,87,Higher Love,Pop Remix,pop,dance pop,0.693,0.678,8,-7.159,1,0.0324,0.0154,6.05e-06,0.101,0.404,103.952,228267,2019,6
+Unlove You,Armin van Buuren,62,Unlove You,Pop Remix,pop,dance pop,0.678,0.928,3,-3.66,0,0.0597,0.0303,3.33e-05,0.143,0.663,116.892,150160,2019,10
+bad guy (with Justin Bieber),Billie Eilish,83,bad guy (with Justin Bieber),Pop Remix,pop,dance pop,0.67,0.453,0,-11.265,1,0.295,0.252,0.33,0.117,0.68,135.055,194840,2019,7
+Freaking Me Out - Keanu Silva Remix,Ava Max,55,Freaking Me Out (Keanu Silva Remix),Pop Remix,pop,dance pop,0.755,0.931,1,-4.104,0,0.0606,0.132,0.0271,0.0854,0.288,122.041,177466,2019,11
+Heaven Can Wait - The Aston Shuffle Remix,Sia,61,Heaven Can Wait (The Aston Shuffle Remix),Pop Remix,pop,dance pop,0.622,0.859,5,-7.626,1,0.0636,0.000609,0.746,0.0909,0.442,121.968,218373,2019,5
+When It Comes To You - Benny Benassi & BB Team Remix,Sean Paul,56,When It Comes To You (Remixes),Pop Remix,pop,dance pop,0.789,0.893,10,-4.364,0,0.168,0.0538,0.0,0.221,0.41,121.956,144073,2019,10
+Gone - The Wild Remix,Charli XCX,57,Gone (The Wild Remix),Pop Remix,pop,dance pop,0.64,0.838,6,-4.203,1,0.0416,0.0588,1.99e-05,0.0424,0.587,124.081,193861,2019,8
+American Boy - Brooks Remix,Estelle,56,American Boy (Brooks Remix),Pop Remix,pop,dance pop,0.609,0.764,5,-4.564,0,0.111,0.0994,0.0,0.197,0.531,128.082,200625,2019,6
+Million Pieces - M-22 Remix,Bastille,53,Million Pieces (M-22 Remix),Pop Remix,pop,dance pop,0.64,0.992,4,-3.318,0,0.0585,0.0832,0.0083,0.109,0.479,123.951,166237,2019,9
+joy. (R3HAB Remix),for KING & COUNTRY,56,joy. (R3HAB Remix),Pop Remix,pop,dance pop,0.75,0.81,0,-4.607,0,0.0572,0.0917,1.59e-05,0.111,0.48,120.038,171500,2019,1
+Crash Into Me - Settle Down Steavis Aoki Remix,Steve Aoki,34,Crash Into Me (Settle Down Steavis Aoki Remix),Pop Remix,pop,dance pop,0.535,0.956,1,-2.996,0,0.0343,0.000609,0.0109,0.262,0.12,127.984,266719,2019,11
+Old Town Road - Diplo Remix,Lil Nas X,74,Old Town Road (Diplo Remix),Pop Remix,pop,dance pop,0.766,0.771,6,-9.108,1,0.0576,0.00407,3.76e-06,0.113,0.297,140.036,204027,2019,4
+Lovers + Strangers - GATTÜSO Remix,Starley,46,Lovers + Strangers (GATTÜSO Remix),Pop Remix,pop,dance pop,0.649,0.821,10,-4.952,0,0.0472,0.017,0.000347,0.0655,0.394,125.977,203968,2019,11
+Flames (with ZAYN) - R3HAB & Skytech VIP Remix,R3HAB,55,Flames (with ZAYN) (R3HAB & Skytech VIP Remix),Pop Remix,pop,dance pop,0.355,0.789,5,-4.358,0,0.165,0.0148,0.0,0.0355,0.169,80.444,237686,2019,12
+What Am I - SONDR Remix,Why Don't We,52,What Am I (SONDR Remix),Pop Remix,pop,dance pop,0.542,0.84,0,-5.283,0,0.0419,0.0336,8.45e-05,0.277,0.509,118.02,180361,2019,11
+Cool Kids,Olympis,67,Cool Kids,Pop Remix,pop,dance pop,0.735,0.5,8,-11.297,1,0.0511,0.415,3.12e-05,0.13,0.119,126.1,139048,2019,11
+Loco Contigo (with J. Balvin & Tyga) - Cedric Gervais Remix,DJ Snake,63,Loco Contigo (with J. Balvin & Tyga) [Cedric Gervais Remix],Pop Remix,pop,dance pop,0.752,0.84,6,-4.451,0,0.0373,0.00486,0.0109,0.0916,0.461,124.002,279800,2019,8
+All Star - Breathe Carolina Remix,Smash Mouth,60,All Star (Breathe Carolina Remix),Pop Remix,pop,dance pop,0.748,0.903,3,-5.877,0,0.0385,0.0324,0.0,0.106,0.751,115.018,217043,2019,8
+Trampoline - Dave Audé Remix,SHAED,45,Melt (Deluxe),Pop Remix,pop,dance pop,0.607,0.955,7,-3.613,0,0.102,0.0163,0.121,0.0725,0.501,125.984,230476,2019,12
+Stay (Don't Go Away) [feat. Raye] - Mark Knight Remix,David Guetta,58,Stay (Don't Go Away) [feat. Raye] [Mark Knight Remix],Pop Remix,pop,dance pop,0.607,0.995,9,-2.325,0,0.0487,0.0921,0.002,0.0445,0.664,124.998,188640,2019,7
+With You - Dexter Remix,Kaskade,51,With You - The Remixes,Pop Remix,pop,dance pop,0.679,0.786,1,-6.918,0,0.132,0.119,5.89e-06,0.224,0.47,126.092,196613,2019,9
+Safety (feat. DJ Snake) - Dark Heart 2am Mix,GASHI,58,Safety (The Dark Heart Remixes) (feat. DJ Snake),Pop Remix,pop,dance pop,0.714,0.801,5,-5.8,0,0.0301,0.0204,0.00615,0.334,0.292,124.015,210000,2019,11
+Talk - Disclosure VIP,Khalid,60,Talk (Disclosure VIP),Pop Remix,pop,dance pop,0.775,0.867,4,-7.388,0,0.204,0.0158,0.0117,0.0355,0.565,128.956,273229,2019,3
+Spicy - Majestic Remix,Herve Pagez,48,Spicy (with Diplo & Charli XCX) [Remixes],Pop Remix,pop,dance pop,0.814,0.838,11,-5.547,1,0.0763,0.001,0.0223,0.0185,0.959,121.978,255861,2019,10
+Don't Leave Me Lonely (feat. Yebba) - Claptone Remix,Mark Ronson,56,Don't Leave Me Lonely (feat. Yebba) [Claptone Remix],Pop Remix,pop,dance pop,0.784,0.779,8,-5.48,1,0.0387,0.0357,0.025,0.0245,0.459,124.994,216714,2019,10
+Treehouse - R3HAB Remix,James Arthur,56,Treehouse (R3HAB Remix),Pop Remix,pop,dance pop,0.367,0.783,6,-4.504,1,0.154,0.00515,0.0,0.0545,0.289,88.013,192653,2019,9
+Call You Mine,The Chainsmokers,39,World War Joy,Dance Pop,pop,dance pop,0.591,0.702,7,-5.59,1,0.0289,0.225,0.0,0.414,0.501,104.003,217653,2019,5
+Post Malone (feat. RANI),Sam Feldt,83,Magnets EP,Dance Pop,pop,dance pop,0.59,0.642,7,-3.87,1,0.122,0.0771,0.0,0.105,0.651,107.356,174444,2019,5
+Here With Me,Marshmello,83,Here With Me,Dance Pop,pop,dance pop,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,156347,2019,3
+Easier - Seeb Remix,5 Seconds of Summer,71,Easier (Seeb Remix),Dance Pop,pop,dance pop,0.564,0.747,5,-3.374,1,0.0584,0.0728,0.0,0.151,0.717,97.878,165767,2019,7
+Sixteen,Ellie Goulding,81,Sixteen,Dance Pop,pop,dance pop,0.669,0.801,8,-5.445,1,0.136,0.268,0.0,0.0594,0.541,109.919,201072,2019,4
+Never Really Over,Katy Perry,85,Never Really Over,Dance Pop,pop,dance pop,0.77,0.882,8,-4.792,1,0.0602,0.194,0.0,0.316,0.385,99.991,223523,2019,5
+All You Need To Know (feat. Calle Lehmann),Gryffin,76,All You Need To Know (feat. Calle Lehmann),Dance Pop,pop,dance pop,0.513,0.788,0,-4.629,1,0.0364,0.00968,0.0,0.11,0.234,139.987,238459,2019,3
+I Miss Myself (with HRVY),NOTD,71,I Miss Myself (with HRVY),Dance Pop,pop,dance pop,0.72,0.864,0,-3.249,1,0.208,0.0856,0.0,0.16,0.659,96.048,191612,2019,5
+South of the Border (feat. Camila Cabello & Cardi B) - Sam Feldt Remix,Ed Sheeran,65,South of the Border (feat. Camila Cabello & Cardi B) [Sam Feldt Remix],Dance Pop,pop,dance pop,0.789,0.858,5,-4.388,1,0.0404,0.22,4.58e-05,0.335,0.491,110.012,173455,2019,10
+Takeaway (feat. Lennon Stella),The Chainsmokers,67,World War Joy...Takeaway,Dance Pop,pop,dance pop,0.294,0.505,3,-8.106,1,0.042,0.12,0.0,0.0977,0.357,85.332,209893,2019,7
+All the Time,Zara Larsson,74,All the Time,Dance Pop,pop,dance pop,0.665,0.799,6,-2.868,0,0.0617,0.18,0.0,0.125,0.5,101.976,228112,2019,6
+What I Like About You (feat. Theresa Rex),Jonas Blue,81,What I Like About You (feat. Theresa Rex),Dance Pop,pop,dance pop,0.46,0.8,1,-3.584,1,0.05,0.289,6.16e-06,0.121,0.553,102.46,220396,2019,3
+With You,Kaskade,71,With You,Dance Pop,pop,dance pop,0.362,0.921,1,-3.815,0,0.486,0.123,0.0,0.19,0.529,172.191,180840,2019,6
+Body Back (feat. Maia Wright),Gryffin,75,Body Back (feat. Maia Wright),Dance Pop,pop,dance pop,0.686,0.83,8,-4.437,1,0.0369,0.0948,1.33e-06,0.182,0.486,123.032,214634,2019,10
+Not Ok,Kygo,73,Not Ok,Dance Pop,pop,dance pop,0.618,0.66,11,-8.14,0,0.0372,0.0292,2.07e-06,0.325,0.408,105.0,210944,2019,5
+Better With You,3LAU,63,Better With You,Dance Pop,pop,dance pop,0.571,0.752,3,-4.872,1,0.0293,0.0196,6.92e-05,0.114,0.25,102.043,192941,2019,3
+"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",Kygo,79,"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",Dance Pop,pop,dance pop,0.591,0.705,9,-6.519,0,0.079,0.381,0.000116,0.131,0.27,121.799,215316,2019,4
+In Your Arms (with X Ambassadors),ILLENIUM,75,ASCEND,Dance Pop,pop,dance pop,0.404,0.806,2,-4.75,1,0.0496,0.198,0.0,0.114,0.112,148.036,220730,2019,8
+I'm Not Alright,Loud Luxury,55,I'm Not Alright,Dance Pop,pop,dance pop,0.876,0.856,4,-3.884,1,0.0486,0.0812,1.29e-06,0.457,0.685,121.991,185062,2019,7
+SOS,Avicii,30,SOS,Dance Pop,pop,dance pop,0.802,0.645,5,-6.181,0,0.0715,0.272,0.0,0.119,0.376,100.001,157202,2019,4
+Harder,Jax Jones,62,Snacks,Dance Pop,pop,dance pop,0.906,0.832,5,-3.004,0,0.0718,0.0909,0.0,0.152,0.751,104.03,159753,2019,7
+Wanted,NOTD,70,Wanted,Dance Pop,pop,dance pop,0.693,0.674,5,-4.449,1,0.0723,0.185,0.0,0.0639,0.378,95.972,160998,2019,9
+Crash Into Me,Steve Aoki,37,Crash Into Me,Dance Pop,pop,dance pop,0.672,0.815,1,-6.476,0,0.0981,0.00246,0.0,0.577,0.341,115.033,226093,2019,7
+Need Your Love (with Noah Kahan),Gryffin,70,Gravity,Dance Pop,pop,dance pop,0.581,0.76,0,-3.962,1,0.0406,0.16,0.0,0.183,0.523,104.099,205787,2019,10
+Good Things Fall Apart (with Jon Bellion),ILLENIUM,74,Good Things Fall Apart (with Jon Bellion),Dance Pop,pop,dance pop,0.643,0.594,2,-5.453,1,0.0318,0.0128,0.0,0.118,0.442,144.033,216668,2019,5
+Don't Call Me Up,Mabel,85,Ivy To Roses (Mixtape),Dance Pop,pop,dance pop,0.674,0.881,9,-2.853,1,0.147,0.296,3.01e-06,0.0793,0.234,98.994,178480,2019,1
+Nostalgic,A R I Z O N A,36,Nostalgic,Dance Pop,pop,dance pop,0.691,0.538,0,-9.952,1,0.103,0.246,0.163,0.178,0.329,99.972,182668,2019,6
+Let It Be Me,Steve Aoki,52,Let It Be Me,Dance Pop,pop,dance pop,0.661,0.758,7,-5.299,1,0.0864,0.0797,0.0,0.106,0.387,114.098,224061,2019,9
+Lovers + Strangers,Starley,58,Lovers + Strangers,Dance Pop,pop,dance pop,0.653,0.69,1,-5.003,1,0.0756,0.109,0.0,0.136,0.652,110.214,178501,2019,10
+Sad Song (feat. TINI),Alesso,72,Sad Song (feat. TINI),Dance Pop,pop,dance pop,0.734,0.693,0,-6.474,1,0.0361,0.0878,0.0,0.341,0.55,110.021,154024,2019,6
+Save Me Tonight,ARTY,63,Save Me Tonight,Dance Pop,pop,dance pop,0.55,0.899,5,-3.284,0,0.0458,0.0113,9.65e-05,0.137,0.408,125.85,170079,2019,1
+No Sleep (feat. Bonn),Martin Garrix,76,No Sleep (feat. Bonn),Dance Pop,pop,dance pop,0.44,0.635,11,-6.385,1,0.0326,0.129,0.0,0.121,0.327,128.133,207095,2019,2
+Endless Summer,Cashae,56,Endless Summer,Dance Pop,pop,dance pop,0.625,0.719,4,-5.541,1,0.0612,0.048,0.0,0.0668,0.326,101.091,202072,2019,7
+Faith (with Dolly Parton) [feat. Mr. Probz],Galantis,77,Faith (with Dolly Parton) [feat. Mr. Probz],Dance Pop,pop,dance pop,0.547,0.795,8,-3.721,1,0.0489,0.145,0.0,0.11,0.723,118.118,186805,2019,10
+Think About You,Kygo,71,Think About You,Dance Pop,pop,dance pop,0.673,0.596,10,-7.891,1,0.0354,0.166,0.0,0.11,0.19,123.969,208567,2019,2
+Party For One,Carly Rae Jepsen,64,Dedicated,Dance Pop,pop,dance pop,0.699,0.633,6,-6.547,1,0.0362,0.0453,0.0,0.101,0.458,123.449,184533,2019,5
+Ritual,Tiësto,82,Ritual,Dance Pop,pop,dance pop,0.647,0.726,3,-4.389,0,0.0552,0.157,0.0,0.0844,0.767,114.996,198996,2019,5
+Now That I Found You,Carly Rae Jepsen,5,Now That I Found You / No Drug Like Me,Dance Pop,pop,dance pop,0.611,0.737,0,-5.154,0,0.0476,0.0145,0.0,0.107,0.574,124.169,200318,2019,2
